@@ -1,0 +1,3 @@
+Different protein sequences were obtained from NCB database (www. ncbi.nlm.nih.gov) 
+
+Then these sequences were used as an input in MUSCLE ( https://www.ebi.ac.uk/jdispatcher/msa/muscle?stype=protein )for multiple sequence alignment (MSA).
